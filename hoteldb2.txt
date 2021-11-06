@@ -1,0 +1,15 @@
+1		Asha		101		single		5432123456		2		2000		1000		1000		asha@gmail.com
+2		Sam		103		single		8765456789		3		4000		2000		2000		sam@gmail.com
+3		Sagar		102		single		6543234567		3		6000		4000		2000		sagar@gmail.com
+4		Sundar		323		deluxe		9854637281		3		4000		3000		1000		sundar@gmail.com
+5		Sujata		214		double		7654376543		8		9000		8000		1000		sujata@gmail.com
+6		Ujwal		201		double		7654387654		6		8000		7000		1000		ujwal@yahoo.com
+7		Bhagya		303		deluxe		9768756473		4		6000		5000		1000		bhagya@hotmail.com
+8		Josh		212		double		9876545678		5		6000		5000		1000		joshua@yahoo.com
+9		Sahana		115		single		9856754345		2		5000		3000		2000		sahana@gmail.com
+10		Raj		216		double		9876545678		3		4000		2000		2000		raj@yahoo.com
+11		Ankitha		307		deluxe		9675846787		4		5000		3000		2000		ankitha@gmail.com
+12		Swathi		301		deluxe		7558945655		8		7000		4000		3000		rohit@yahoo.com
+13		Dinesh		310		double		8765790008		4		3000		1500		1500		dinesh@hotmail.com
+14		Suresh		113		single		9098765699		3		3000		1500		1500		suresh@gmail.com
+15		Nikhil		304		deluxe		9876512387		2		3800		1700		2100		nikhil@gmail.com

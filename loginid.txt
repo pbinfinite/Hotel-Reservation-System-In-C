@@ -1,0 +1,8 @@
+asha		asha
+ravi		ravi
+nikhil		nikhil
+ujwal		ujwal
+josh		josh
+hotel		manager
+user		pass
+hotel		paradise
